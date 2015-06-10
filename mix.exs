@@ -34,7 +34,7 @@ defmodule CorsPlug.Mixfile do
   defp deps do
     [
       {:cowboy, "~> 1.0.0"},
-      {:plug, "> 0.8.0"}
+      {:plug, "~> 0.9.0"}
     ]
   end
 
